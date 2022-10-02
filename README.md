@@ -1,2 +1,3 @@
-# Predicting Ozone Non Attainment Zones
- Supervised Machine Learning Algorithms to predict tropospheric ozone in US with MAE and Accuracy as metrics.
+# Exploratory Data Analysis and Machine Learning Classification on Campus Recruitment
+
+EDA and ML study on Campus Recruitment Dataset . Performed Data Analysis on the dataset using visualization tools. Next,using the data to predict whether a candidate would be hired on campus. 
